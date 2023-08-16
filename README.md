@@ -3,7 +3,7 @@
 #### springboot
 
 - 创建工程，可以去官网创建后下载打开
-- 创建web服务需要依赖spring-boot-starter-test插件
+- 创建web服务需要依赖spring-boot-starter-web插件
 
 #### 文件目录
 - controller/param文件目录下，是api接口各种参数的写法（只写了几个常用的）
